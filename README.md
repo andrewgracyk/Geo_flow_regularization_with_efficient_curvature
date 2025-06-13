@@ -12,3 +12,8 @@ This is the implementation of Geometric flow regularization in latent spaces wit
 Please feel free to try out this code. If you have immediate comments, please feel free to reach out.
 
 Unfortunately, I am not able to attach my saved Navier-Stokes parameters or datasets because the files are too large. The parameters I used to collect results in the other 4 experiments are attached.
+
+My data sources were as follows:
+
+Burger's equation: https://github.com/sachabinder/Burgers_equation_simulation/tree/main  
+Navier-Stokes: https://github.com/crewsdw/Incompressible2D
