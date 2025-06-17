@@ -9,9 +9,19 @@
 
 This is the implementation of Geometric flow regularization in latent spaces with the efficient variations of curvature.
 
-Please feel free to try out this code. If you have immediate comments or corrections, please feel free to reach out.
+If you find this repository useful in your research, please cite it as:
 
-Unfortunately, I am not able to attach my saved Navier-Stokes parameters or datasets because the files are too large. The parameters I used to collect results in the other 4 experiments are attached.
+```bibtex
+@misc{gracyk2025geometricflowregularizationlatent,
+      title={Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature}, 
+      author={Andrew Gracyk},
+      year={2025},
+      eprint={2506.09679},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2506.09679}, 
+}
+```
 
 My data sources were as follows:
 
